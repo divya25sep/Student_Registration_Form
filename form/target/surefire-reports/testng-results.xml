@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32951" started-at="2021-03-26T06:11:07Z" finished-at="2021-03-26T06:11:40Z">
+    <groups>
+    </groups>
+    <test name="Validating Elements" duration-ms="32951" started-at="2021-03-26T06:11:07Z" finished-at="2021-03-26T06:11:40Z">
+      <class name="form.Elements">
+        <test-method status="PASS" signature="enterinfo()[pri:0, instance:form.Elements@2d6e8792]" name="enterinfo" duration-ms="32904" started-at="2021-03-26T11:41:08Z" finished-at="2021-03-26T11:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterinfo -->
+      </class> <!-- form.Elements -->
+    </test> <!-- Validating Elements -->
+  </suite> <!-- Suite -->
+</testng-results>
